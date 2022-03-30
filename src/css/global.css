@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    background-image: url("../imagens/background.png");
 }
 
 main {
@@ -7,8 +8,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    /* background-color: #DADFE8; */
-    background-image: url(https://i.pinimg.com/originals/fc/f6/95/fcf695d2fb7b29067d5540c2079bc06b.jpg);
+    /* background-color: #DADFE8; */ 
 }
 
 .pokedex {

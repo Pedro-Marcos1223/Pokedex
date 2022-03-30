@@ -1,6 +1,8 @@
 @media (max-width: 750px) {
     body {
         font-size: 12px;
+        background-image: url(../imagens/responsivo5.jpg);
+        background-size: 100%;
     }
 
     .pokedex {
